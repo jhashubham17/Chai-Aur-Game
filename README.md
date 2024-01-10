@@ -3,6 +3,12 @@
 
 Welcome to "Chai Aur Game," where the joy of game development meets the soothing atmosphere of chai. ☕🎮
 
+
+## Project list
+
+
+1.Flip a Coin - (https://flip-acoin-game.netlify.app/)
+
 ## Overview
 
 "Chai Aur Game" is a repository dedicated to creating and exploring game development projects. Immerse yourself in the world of gaming, fueled by the perfect blend of creativity and chai. Whether you're a beginner or an experienced developer, this repository is your playground for turning ideas into interactive experiences.
